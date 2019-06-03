@@ -19,33 +19,64 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "INESC ID, Portugal"
+  organization_url = "https://hrisummerschool.org/"
+  title = "3rd Summer School on Social Human-Robot Interaction"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "files/CertificateofAttendanc_socialHRI.pdf"
+  date_start = "2017-09-08"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Center for Nonviolent Communication"
+  organization_url = ""
+  title = "Foundations and Advanced Nonviolent Communication"
+  url = ""
+  certificate_url = "files/communication_training.pdf"
+  date_start = "2015-11-11"
+  date_end = "2017-01-20"
+  description = ""
+
+[[item]]
+  organization = "AERFAI/UJI"
+  organization_url = ""
+  title = "12th International Robotics School on Perceptual Robotics for Humanoids"
+  url = ""
+  certificate_url = "files/perceptual_robotics.pdf"
+  date_start = "2012-09-21"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Synapses, Neurons and Brains"
+  url = ""
+  certificate_url = "files/Coursera_Certificate_Synapes_Neurons_Brainds.pdf"
+  date_start = "2013-08-19"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to Digital Sound Design"
+  url = ""
+  certificate_url = "files/Coursera_Certificate_DigitalSoundDesign.pdf"
+  date_start = "2013-05-30"
+  date_end = ""
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Chinese for Beginners"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2013-06-30"
+  date_end = ""
   description = ""
 
 +++

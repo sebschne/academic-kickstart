@@ -17,13 +17,31 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Associate (post-doc)"
+  company = "Applied Informatics, Bielefeld University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Bielefeld"
+  date_start = "2017-08-01"
+  date_end = "2019-09-30"
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+
+
+[[experience]]
+  title = "PhD Scholar"
+  company = "Cognitive Interaction Technology Excellence Cluster, Bielefeld University"
+  company_url = ""
+  location = "Bielefeld"
+  date_start = "2014-08-01"
+  date_end = "2017-07-31"
   description = """
   Responsibilities include:
   
@@ -33,12 +51,27 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Scholar"
+  company = "Applied Informatics, Bielefeld University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Bielefeld"
+  date_start = "2013-08-01"
+  date_end = "2014-07-31"
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+
+[[experience]]
+  title = "Research Associate"
+  company = "Cognition and Robotics Lab, Bielefeld University"
+  company_url = ""
+  location = "Bielefeld"
+  date_start = "2011-10-01"
+  date_end = "2014-07-31"
+  description = """Research on motivational feedback mechanism for long-term HRI."""
 
 +++
