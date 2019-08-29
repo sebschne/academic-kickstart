@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Supervision of students
+  * Publishing research results
+  * Lecturing ethics and social aspects of intelligent systems and robots; social user interfaces
   """
 
 
@@ -45,9 +45,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Implementing software for robotic exercising companions (incl. vision, control, interaction and adaptation
+  * Conducting experiments on the motivational effects of embodiment, feedback, adaptation for robotic exercising companions 
+  * Publishing and presenting research results
+  * Lecturing social robotics
   """
 
 [[experience]]
@@ -60,9 +61,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Publishing research results on long-term Human-Robot Interaction
+  * Identification of future research topics in the area of socially assistive robots for exercising
+  * Lecturing seminars on social robots
   """
 
 [[experience]]
