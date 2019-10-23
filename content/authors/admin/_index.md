@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sebastian Schneider
+name: Dr.-Ing. Sebastian Schneider
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher of Applied Informatics
+role: Researcher of Human-Robot Interaction
 
 # Organizations/Affiliations
 organizations:
-- name: Bielefeld University
-  url: ""
+- name: Kyoto University
+  url: "http://www.robot.soc.i.kyoto-u.ac.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include social robotics, personalization and adaptation in HCI/HRI, Rehabilitation Robotics, Cognitive Computing, Social Psychology/Neuroscience.
